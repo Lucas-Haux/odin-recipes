@@ -1,0 +1,43 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1  {
+    text-align-last: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 0 auto;;
+}
+
+p {
+    text-align-last: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align-last: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
