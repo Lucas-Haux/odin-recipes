@@ -9,26 +9,24 @@ h1  {
 }
 
 img {
+    width: auto;
+    height: 300px;
     display: block;
     margin: 0 auto;;
 }
 
 p {
+    display: block;
+    margin: 50px auto;
+    width: 500px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
-    text-align: center;
+    margin-top: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-}
-
-.main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
 }
 
 #links {
